@@ -9,6 +9,7 @@ This project uses intelligent ML-inspired models and real-time data streams to s
 - **Pathway** – Real-time data streaming and event simulation
 - **Google Colab** – Execution environment
 - ## Project Architecture
+
 ```mermaid
 graph TD
   A[CSV Dataset] --> B[Data Cleaning & Feature Engineering]
@@ -17,6 +18,7 @@ graph TD
   B --> C3[Model 3: Competitive Pricing]
   C1 & C2 & C3 --> D[Real-Time Price Computation via Pathway]
   D --> E[Bokeh Dashboard - Real-Time Visualization]
+
 ## Workflow & Elements
 
 1. **Preprocessing of Data**
