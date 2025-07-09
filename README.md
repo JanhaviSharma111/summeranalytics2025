@@ -61,6 +61,6 @@ This project uses intelligent ML-inspired models and real-time data streams to s
 # Install required packages
 !pip install pandas numpy bokeh pathway
 A supplementary report is available with explanations, assumptions, and visuals:  
-[📝 Google Doc Report](https://docs.google.com/document/d/1m6D25AUbQgIFj70JzcsiFlV47b-tKVOBpY57K0UcZis/edit?tab=t.0)
+[📝 Google Doc Report](https://docs.google.com/document/d/1m6D25AUbQgIFj70JzcsiFlV47b-tKVOBpY57K0UcZis/edit?usp=sharing)
 
 
